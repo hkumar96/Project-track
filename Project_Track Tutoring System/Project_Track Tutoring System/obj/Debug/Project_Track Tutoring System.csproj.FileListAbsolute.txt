@@ -1,0 +1,11 @@
+D:\Documents\my vb works\visual studio 2010\Projects\Project_Track Tutoring System\Project_Track Tutoring System\bin\Debug\Project_Track Tutoring System.exe.config
+D:\Documents\my vb works\visual studio 2010\Projects\Project_Track Tutoring System\Project_Track Tutoring System\bin\Debug\Project_Track Tutoring System.exe
+D:\Documents\my vb works\visual studio 2010\Projects\Project_Track Tutoring System\Project_Track Tutoring System\bin\Debug\Project_Track Tutoring System.pdb
+D:\Documents\my vb works\visual studio 2010\Projects\Project_Track Tutoring System\Project_Track Tutoring System\obj\Debug\Project_Track Tutoring System.csprojResolveAssemblyReference.cache
+D:\Documents\my vb works\visual studio 2010\Projects\Project_Track Tutoring System\Project_Track Tutoring System\obj\Debug\Project_Track_Tutoring_System.Properties.Resources.resources
+D:\Documents\my vb works\visual studio 2010\Projects\Project_Track Tutoring System\Project_Track Tutoring System\obj\Debug\Project_Track Tutoring System.csproj.GenerateResource.Cache
+D:\Documents\my vb works\visual studio 2010\Projects\Project_Track Tutoring System\Project_Track Tutoring System\obj\Debug\Project_Track Tutoring System.exe
+D:\Documents\my vb works\visual studio 2010\Projects\Project_Track Tutoring System\Project_Track Tutoring System\obj\Debug\Project_Track Tutoring System.pdb
+D:\Documents\my vb works\visual studio 2010\Projects\Project_Track Tutoring System\Project_Track Tutoring System\obj\Debug\Project_Track_Tutoring_System.Home_Form.resources
+D:\Documents\my vb works\visual studio 2010\Projects\Project_Track Tutoring System\Project_Track Tutoring System\obj\Debug\Project_Track_Tutoring_System.Conditions_Form.resources
+D:\Documents\my vb works\visual studio 2010\Projects\Project_Track Tutoring System\Project_Track Tutoring System\obj\Debug\Project_Track_Tutoring_System.BasicForm.resources
